@@ -1,6 +1,6 @@
 # inch-to-pixel-converter
 <br>
-homework
+Homework Series
 <br>
 inch to pixel converter program.
 <br>
